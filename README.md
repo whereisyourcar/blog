@@ -1,6 +1,6 @@
 # H-VK 技术文章
 
-![背景图片](https://i.postimg.cc/zfW4rPRX/bg1.jpg)
+![背景图片](aaahttps://i.postimg.ccaaa/zfW4rPRXaaa/bg1aaa.jpgaaa)
 
 ## 文章分类
 
