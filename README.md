@@ -1,7 +1,8 @@
 # H-VK 技术文章
 
 ![背景图片](https://i.postimg.cc/zfW4rPRX/bg1.jpg)
-![背景图片](http://www.cqouyi.com/wp-content/uploads/2018/01/flnkf1.jpg)
+![Image text](http://www.cqouyi.com/wp-content/uploads/2018/01/flnkf1.jpg)
+
 ## 文章分类
 
 - [Java](#user-content-java)
